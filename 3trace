@@ -3,7 +3,7 @@
 # apt -y install unzip
 
 echo -e "\033[31m =============================================================\033[0m"
-echo -e "\033[33m                 脚本名：  Utrace.sh \033[0m"
+echo -e "\033[33m                 脚本名：  3trace.sh \033[0m"
 echo -e "\033[33m *原作者：@ztang；Github：https://github.com/zq/shell \033[0m"
 echo -e "\033[34m *此脚本仅仅丰富了测试用ip地址 \033[0m"
 echo -e "\033[34m *运行后自动测试服务器回程到上海北京广州三地电信联通移动路由情况 \033[0m"
